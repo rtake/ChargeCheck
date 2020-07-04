@@ -33,7 +33,7 @@ int main(int argc, char *argv[]) {
     fclose(fpg);
 
     printf("%s\n",sub);
-    system(sub);
+    // system(sub);
   }
 
 
